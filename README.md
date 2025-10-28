@@ -10,8 +10,6 @@
   <h2 align="center">Silent Eating - Misophonia mod for Space Engineers</h2>
 
   <p align="center">
-    A <b><i>backwards compatible</i></b> Space Engineers mod pack to add QoL improvements and features in the style of <strong>THE EXPANSE</strong>!
-    <br><br />
     <a href="https://github.com/vectorcmdr/Silent-Eating-Misophonia-SE/issues">Report A Bug 💥</a>
     ·
     <a href="https://github.com/vectorcmdr/Silent-Eating-Misophonia-SE/issues">Request A Feature 🚀</a>

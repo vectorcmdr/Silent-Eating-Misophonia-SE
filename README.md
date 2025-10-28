@@ -114,7 +114,7 @@ Distributed under the Creative Commons Attribution-NonCommercial-ShareAlike Lice
 
 <a href="#"><img src="https://cdn.simpleicons.org/github/808080" height="16"/></a> [ GitHub: @vectorcmdr](https://github.com/vectorcmdr)
 
-<a href="#"><img src="https://cdn.simpleicons.org/github/808080" height="16"/></a> [ GitHub Project: Expansive-Mods-SE](https://github.com/vectorcmdr/Silent-Eating-Misophonia-SE)
+<a href="#"><img src="https://cdn.simpleicons.org/github/808080" height="16"/></a> [ GitHub Project: Silent-Eating-Misophonia-SE](https://github.com/vectorcmdr/Silent-Eating-Misophonia-SE)
 
 <a href="#"><img src="https://cdn.simpleicons.org/googlecloud/FF4500" height="16"/></a> [ Website: @vector_cmdr](https://vectorcmdr.xyz)
 

@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Sounds>
+        <Sound>
+            <Id>
+                <TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+                <SubtypeId>ArcPlayEat</SubtypeId>
+            </Id>
+            <Category>PLAYER</Category>
+            <Volume>0.5</Volume>
+            <Waves>
+                <Wave Type="D3">
+                    <Start>ARC\PLAYER\ArcPlayEat01.wav</Start>
+                </Wave>
+                <Wave Type="D3">
+                    <Start>ARC\PLAYER\ArcPlayEat02.wav</Start>
+                </Wave>
+                <Wave Type="D3">
+                    <Start>ARC\PLAYER\ArcPlayEat03.wav</Start>
+                </Wave>
+            </Waves>
+        </Sound>
+		
+        <Sound>
+            <Id>
+                <TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+                <SubtypeId>ArcPlayFoodPoisoning</SubtypeId>
+            </Id>
+            <Category>PLAYER</Category>
+            <Volume>0.5</Volume>
+            <Waves>
+                <Wave Type="D3">
+                    <Start>ARC\PLAYER\ArcPlayFoodpoisoning1.wav</Start>
+                </Wave>
+                <Wave Type="D3">
+                    <Start>ARC\PLAYER\ArcPlayFoodpoisoning2.wav</Start>
+                </Wave>
+                <Wave Type="D3">
+                    <Start>ARC\PLAYER\ArcPlayFoodpoisoning3.wav</Start>
+                </Wave>
+            </Waves>
+        </Sound>
+		
+        <Sound>
+            <Id>
+                <TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+                <SubtypeId>ArcPlayDrink</SubtypeId>
+            </Id>
+            <Category>PLAYER</Category>
+            <Volume>0.5</Volume>
+            <Waves>
+                <Wave Type="D3">
+                    <Start>ARC\PLAYER\ArcPlayDrink01.wav</Start>
+                </Wave>
+            </Waves>
+        </Sound>
+        
+    </Sounds>
+</Definitions>

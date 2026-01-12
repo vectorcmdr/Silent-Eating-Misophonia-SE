@@ -33,7 +33,7 @@
 
 </div>
 
-# [Grab it from the Steam Workshop!](https://steamcommunity.com/sharedfiles/filedetails/?id=3592406509)
+# [👉 Grab it from the Steam Workshop!](https://steamcommunity.com/sharedfiles/filedetails/?id=3592406509)
 
 <!-- ABOUT -->
 ## About Silent Eating - Misophonia Mod

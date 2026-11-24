@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Sounds>
+        
+        <Sound>
+            <Id>
+                <TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+                <SubtypeId>ArcHudVocFoodLow</SubtypeId>
+            </Id>
+            <Category>HUD</Category>
+            <Volume>0.55</Volume>
+            <Loopable>false</Loopable>
+            <Waves>
+                <Wave Type="D3">
+                    <Start>ARC\PLAYER\ArcPlayHunger.wav</Start>
+                </Wave>
+            </Waves>
+        </Sound>
+        
+        <Sound>
+            <Id>
+                <TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+                <SubtypeId>RealHudVocFoodLow</SubtypeId>
+            </Id>
+            <Category>HUD_R</Category>
+            <Volume>0.55</Volume>
+            <Loopable>false</Loopable>
+            <Waves>
+                <Wave Type="D3">
+                    <Start>ARC\PLAYER\ArcPlayHunger.wav</Start>
+                </Wave>
+            </Waves>
+        </Sound>
+
+    </Sounds>
+</Definitions>

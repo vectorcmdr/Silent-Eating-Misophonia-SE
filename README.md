@@ -47,6 +47,7 @@ It replaces the arcade chewing/gulping/stomach sounds:
 * Eat01/02/03 with a subtle packet crinkle sound.
 * Drink01 with a subtle bottle cap sound.
 * FoodPoisoning1/2/3 with a low pitch negative chime sound.
+* Hunger with a low pitch beep sound.
 
 Reach out if there are any issues, or if there are other sounds from this category that you'd like to consider being added.
 
